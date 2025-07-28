@@ -13,7 +13,7 @@ Most online betting companies are centralized, and often bets are placed on shor
 
 ## Team
 - **Gérald Quenum**: Gérald has been immersed in blockchain for ten years and a Blockchain developer for four years. He specializes in tokenization and creates secure solutions. Off-duty, he enjoys Flight Simulator. With four computers, a tablet, and three phones, Gérald always stays connected and creative.
-- **Jhon doe**: Full Stack Developer with expertise in frontend and backend development for blockchain projects.
+- **stormerino78**: Full Stack Developer with expertise in frontend and backend development for blockchain projects.
 
 
 
